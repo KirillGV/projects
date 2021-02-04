@@ -8,4 +8,8 @@
 - product — объём запасов в скважине (тыс. баррелей).
 
 ## Используемые библиотеки 
+<<<<<<< HEAD
 *pandas, numpy, sklearn*
+=======
+*pandas, numpy, sklearn*
+>>>>>>> 33b44b4412817af53ccf95f1c4075a2e5cf24076
