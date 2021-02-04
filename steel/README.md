@@ -12,8 +12,5 @@
 - data_wire_time — данные о проволочных материалах (время).
 
 ## Используемые библиотеки 
-<<<<<<< HEAD
 *pandas, numpy, matplotlib, plotly.express, sklearn, lightgbm, lofo, catboost*
-=======
-*pandas, numpy, matplotlib, plotly.express, sklearn, lightgbm, lofo, catboost*
->>>>>>> 33b44b4412817af53ccf95f1c4075a2e5cf24076
+

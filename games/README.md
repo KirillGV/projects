@@ -15,8 +15,5 @@
 - Rating — рейтинг от организации ESRB (англ. Entertainment Software Rating Board). 
 
 ## Используемые библиотеки 
-<<<<<<< HEAD
 *pandas, matplotlib, plotly, scipy, math, pymystem3*
-=======
-*pandas, matplotlib, plotly, scipy, math, pymystem3*
->>>>>>> 33b44b4412817af53ccf95f1c4075a2e5cf24076
+
